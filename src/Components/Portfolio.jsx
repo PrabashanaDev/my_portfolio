@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "NetWizShare",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A website about networking, cybersecurity, and programming. I write about my experiences and share my knowledge.",
+    url: "https://netwizshare.tech/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "NetWizWorks",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I created this website to share my projects and give solutions to problems that I have faced.",
+    url: "https://net-wiz.works/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and abilities.",
+    url: "https://prabashanadev.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Other Projects",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I have many other projects that I have worked on. Check out my GitHub profile to see more.",
+    url: "GitHub.com/PrabashanaDev",
   },
 ];
 
