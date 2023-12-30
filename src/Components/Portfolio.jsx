@@ -43,16 +43,16 @@ const projectList = [
     url: "https://net-wiz.works/",
   },
   {
-    title: "My Resume Site",
+    title: "Bio Link",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and abilities.",
-    url: "https://prabashanadev.github.io/",
+      "Support me and contact me through my bio page.",
+    url: "https://bio.link/prabashana",
   },
   {
     title: "Other Projects",
     description:
       "I have many other projects that I have worked on. Check out my GitHub profile to see more.",
-    url: "GitHub.com/PrabashanaDev",
+    url: "https://github.com/PrabashanaDev",
   },
 ];
 
