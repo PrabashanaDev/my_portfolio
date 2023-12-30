@@ -28,10 +28,10 @@ const siteProps = {
   title: "DevOps Engineer",
   email: "prabashana.dev@gmail.com",
   gitHub: "PrabashanaDev",
-  instagram: "Chathura Prabashana",
-  linkedIn: "Chathura Prabashana",
+  instagram: "prabashana.insta",
+  linkedIn: "chathura-prabashana",
   medium: "",
-  twitter: "Chathura Prabashana",
+  twitter: "PrabashanaDev",
   youTube: "",
 };
 
