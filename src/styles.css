@@ -124,4 +124,14 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+  
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
