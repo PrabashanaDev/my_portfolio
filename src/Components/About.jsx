@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm self tought DevOps Engineer. I enjoy developing/testing softwares and finding solutions for operations.";
+  "I'm self taught DevOps Engineer. I enjoy developing/testing softwares and finding solutions for operations.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
